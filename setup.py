@@ -1,3 +1,4 @@
+''' Hello'''
 from distutils.core import setup
 import trianglelib
 
